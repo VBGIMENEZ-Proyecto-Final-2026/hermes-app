@@ -1,0 +1,18 @@
+# Secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.jks
+local.properties
+*.keystore
+
+# IDE
+.idea/
+*.iml
+
+# Build
+target/
+build/
+.gradle/
